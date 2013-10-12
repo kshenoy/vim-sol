@@ -87,7 +87,7 @@ hi Normal            guifg=#0b0e0f guibg=#eeeeee gui=NONE
 " The Languages stuff
 hi Title             guifg=NONE    guibg=NONE    gui=NONE
 " ---------------------------------------------------------------------
-hi Comment           guifg=#bdbdbd guibg=NONE    gui=NONE
+hi Comment           guifg=#696969 guibg=NONE    gui=NONE
 " ---------------------------------------------------------------------
 " hi Constant          guifg=#945db7 guibg=NONE    gui=NONE
 " hi Constant          guifg=#00bcbc guibg=NONE    gui=NONE
@@ -217,14 +217,14 @@ hi IncSearch     guifg=#0b0e0f    guibg=#ffcc00    gui=NONE
 hi Search        guifg=#0b0e0f    guibg=#ffcc00    gui=NONE
 hi MoreMsg       guifg=#696969    guibg=NONE    gui=NONE
 hi ModeMsg       guifg=#505050    guibg=NONE    gui=NONE
-hi LineNr        guifg=#b0b0b0    guibg=NONE    gui=NONE
+hi LineNr        guifg=#696969    guibg=NONE    gui=NONE
 hi VertSplit     guifg=#5b5b5b    guibg=#d0d0d0    gui=NONE
 hi VisualNOS     guifg=#0b0e0f    guibg=#ffff4d    gui=NONE
 " hi Folded        guifg=#696969    guibg=#c7c7c7    gui=NONE
 " hi Folded        guifg=#696969    guibg=#d4d4d4    gui=NONE
 " hi Folded        guifg=#c7c7c7    guibg=#e1e1e1    gui=NONE
-hi Folded        guifg=#a0a0a0    guibg=#e1e1e1    gui=NONE
-hi FoldColumn    guifg=#a0a0a0    guibg=#eeeeee    gui=NONE
+hi Folded        guifg=#696969    guibg=#dddddd    gui=NONE
+hi FoldColumn    guifg=#696969    guibg=#dddddd    gui=NONE
 hi DiffAdd       guifg=#ffffff guibg=#006600 gui=NONE
 hi DiffChange    guifg=#ffffff guibg=#007878 gui=NONE
 hi DiffDelete    guifg=#ff0101 guibg=#9a0000 gui=NONE
