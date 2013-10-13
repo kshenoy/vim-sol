@@ -145,7 +145,7 @@ hi Operator          guifg=#ff8036    guibg=NONE    gui=NONE
 " hi Operator          guifg=#ff9050    guibg=NONE    gui=NONE
 " hi Keyword           guifg=NONE    guibg=NONE    gui=NONE
 " hi Exception         guifg=#eb641a    guibg=NONE    gui=NONE
-hi Exception         guifg=#994128    guibg=NONE    gui=NONE
+hi Exception         guifg=#994128 gui=NONE
 " ---------------------------------------------------------------------
 " hi PreProc           guifg=#543978    guibg=NONE    gui=NONE
 " hi PreProc           guifg=#e69500    guibg=NONE    gui=NONE
@@ -198,10 +198,11 @@ hi Underlined        guifg=#6a5acd    guibg=NONE    gui=NONE
 " ---------------------------------------------------------------------
 " hi Ignore            guifg=NONE    guibg=NONE    gui=NONE
 " ---------------------------------------------------------------------
-hi Error             guifg=#ff0000    guibg=#ffcdcd    gui=NONE
+hi Error             guifg=#ff0000    guibg=#ffcdcd    gui=bold
 " hi Error             guifg=#ff0000    guibg=#ffe7e7    gui=NONE
 " ---------------------------------------------------------------------
 hi TODO              guifg=#dc143c    guibg=#ebcc1a    gui=NONE
+hi WarningMsg        guifg=#ff9eb8
 
 " ---------------------------------------------------------------------
 " }}}
@@ -261,7 +262,7 @@ hi ColorColumn   guifg=NONE    guibg=#ffd7c7    gui=NONE
 " hi WildMenu      guifg=#eeeeee    guibg=#787878    gui=NONE
 " hi WildMenu      guifg=#0b0e0f    guibg=#0faf8d    gui=NONE
 hi WildMenu      guifg=#eeeeee    guibg=#b7410e    gui=NONE
-hi SignColumn    guifg=NONE    guibg=#eeeeee    gui=NONE
+hi SignColumn    guifg=NONE    guibg=#dddddd    gui=NONE
 "
 " ---------------------------------------------------------------------
 " }}}
@@ -338,6 +339,9 @@ hi CtrlPMode1      guifg=#007fff guibg=NONE    gui=NONE
 hi CtrlPMode2      guifg=#e95600 guibg=NONE    gui=NONE
 "
 " ---------------------------------------------------------------------
+"
+hi SignatureMarkHL   guifg=#ff2c4b    guibg=#dddddd
+hi SignatureMarkerHL guifg=#4aa874    guibg=#dddddd    gui=bold
 "
 " }}}
 "
