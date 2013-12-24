@@ -218,7 +218,7 @@ hi IncSearch     guifg=#0b0e0f    guibg=#ffcc00    gui=NONE
 hi Search        guifg=#0b0e0f    guibg=#ffcc00    gui=NONE
 hi MoreMsg       guifg=#696969    guibg=NONE    gui=NONE
 hi ModeMsg       guifg=#505050    guibg=NONE    gui=NONE
-hi LineNr        guifg=#696969    guibg=NONE    gui=NONE
+hi LineNr        guifg=#696969    guibg=#dddddd gui=NONE
 hi VertSplit     guifg=#5b5b5b    guibg=#d0d0d0    gui=NONE
 hi VisualNOS     guifg=#0b0e0f    guibg=#ffff4d    gui=NONE
 " hi Folded        guifg=#696969    guibg=#c7c7c7    gui=NONE
@@ -254,7 +254,7 @@ hi MatchParen    guifg=#ffffff    guibg=#ff4400    gui=NONE
 hi CursorLine    guifg=NONE guibg=#e5e5e5 gui=NONE
 " hi CursorLineNr  guifg=#346d51    guibg=NONE    gui=NONE
 " hi CursorLineNr  guifg=#e82ba1    guibg=NONE    gui=NONE
-hi CursorLineNr  guifg=#e11896    guibg=NONE    gui=NONE
+hi CursorLineNr  guifg=#e11896    guibg=#dddddd gui=NONE
 hi CursorColumn  guifg=NONE    guibg=#e5e5e5 gui=NONE
 " hi ColorColumn   guifg=NONE    guibg=#ffa07a    gui=NONE
 " hi ColorColumn   guifg=NONE    guibg=#ffc4ad    gui=NONE
