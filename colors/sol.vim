@@ -201,7 +201,8 @@ hi Underlined        guifg=#6a5acd    guibg=NONE    gui=NONE
 hi Error             guifg=#ff0000    guibg=#ffcdcd    gui=bold
 " hi Error             guifg=#ff0000    guibg=#ffe7e7    gui=NONE
 " ---------------------------------------------------------------------
-hi TODO              guifg=#dc143c    guibg=#ebcc1a    gui=NONE
+"hi TODO              guifg=#dc143c    guibg=#ebcc1a    gui=NONE
+hi TODO              guifg=#d33682    guibg=NONE    gui=bold
 hi WarningMsg        guifg=#ff9eb8
 
 " ---------------------------------------------------------------------
