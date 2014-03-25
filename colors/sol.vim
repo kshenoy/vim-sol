@@ -252,11 +252,11 @@ hi MatchParen    guifg=#ffffff    guibg=#ff4400    gui=NONE
 " hi CursorLine    guifg=NONE    guibg=#c0cdd1 gui=NONE
 " hi CursorLine    guifg=NONE    guibg=#c0cdd1 gui=NONE
 " hi CursorLine    guifg=NONE    guibg=#dde4e6 gui=NONE
-hi CursorLine    guifg=NONE guibg=#e5e5e5 gui=NONE
+hi CursorLine    guifg=NONE guibg=#e3e3e3 gui=NONE
 " hi CursorLineNr  guifg=#346d51    guibg=NONE    gui=NONE
 " hi CursorLineNr  guifg=#e82ba1    guibg=NONE    gui=NONE
 hi CursorLineNr  guifg=#e11896    guibg=#dddddd gui=NONE
-hi CursorColumn  guifg=NONE    guibg=#e5e5e5 gui=NONE
+hi CursorColumn  guifg=NONE    guibg=#e3e3e3 gui=NONE
 " hi ColorColumn   guifg=NONE    guibg=#ffa07a    gui=NONE
 " hi ColorColumn   guifg=NONE    guibg=#ffc4ad    gui=NONE
 hi ColorColumn   guifg=NONE    guibg=#ffd7c7    gui=NONE
