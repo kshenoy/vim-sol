@@ -227,10 +227,14 @@ hi VisualNOS     guifg=#0b0e0f    guibg=#ffff4d    gui=NONE
 " hi Folded        guifg=#c7c7c7    guibg=#e1e1e1    gui=NONE
 hi Folded        guifg=#696969    guibg=#dddddd    gui=NONE
 hi FoldColumn    guifg=#696969    guibg=#dddddd    gui=NONE
-hi DiffAdd       guifg=#ffffff guibg=#006600 gui=NONE
-hi DiffChange    guifg=#ffffff guibg=#007878 gui=NONE
-hi DiffDelete    guifg=#ff0101 guibg=#9a0000 gui=NONE
-hi DiffText      guifg=#000000 guibg=#ffb733 gui=NONE
+"hi DiffAdd       guifg=#ffffff guibg=#006600 gui=NONE
+"hi DiffChange    guifg=#ffffff guibg=#007878 gui=NONE
+"hi DiffDelete    guifg=#ff0101 guibg=#9a0000 gui=NONE
+"hi DiffText      guifg=#000000 guibg=#ffb733 gui=NONE
+hi DiffAdd                     guibg=#D0F4D0 gui=NONE
+hi DiffChange                  guibg=#DCDCEE gui=NONE
+hi DiffDelete    guifg=#EE6969 guibg=#EEC0C0 gui=NONE
+hi DiffText                    guibg=#C6C6D6 gui=NONE
 " hi SpellBad      guifg=NONE    guibg=NONE    gui=NONE
 " hi SpellCap      guifg=NONE    guibg=NONE    gui=NONE
 " hi SpellRare     guifg=NONE    guibg=NONE    gui=NONE
